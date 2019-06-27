@@ -1,4 +1,7 @@
 body {
     background: green;
-    color: aqua;
+    color: yellow;
+}
+h1{
+    size: 2px;
 }
